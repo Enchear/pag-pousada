@@ -1,4 +1,24 @@
 body{
     margin-top: 30%;
-    background-color: aqua;
+    background-color: rgb(155, 182, 182);
+}
+header{
+    height: 200%;
+    width: 87%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    position:large;
+    background-color: rgb(194, 217, 223);   
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    opacity: 0.8;
+    display: flex;
+    position: static;
+    align-items: left;
+    box-shadow: 2px 2px 2px 3px rgb(235, 44, 203);
 }
